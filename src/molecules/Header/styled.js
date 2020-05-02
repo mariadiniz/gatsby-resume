@@ -1,5 +1,4 @@
 import styled from "styled-components"
-import SocialIcons from "../../atoms/SocialIcons"
 
 export const HeaderWrapper = styled.header`
   width: 100%;
