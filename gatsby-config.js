@@ -5,7 +5,7 @@ module.exports = {
     position: `Estudante de Comunicação Social`,
     contacts: {
       phone_number: '21 98451-2680',
-      email: 'mariapodiniz@gmail.com',
+      email: 'contato@mariadiniz.com.br',
       social: {
         github: 'https://github.com/mariadiniz',
         facebook: 'https://fb.com/mariatemrins',

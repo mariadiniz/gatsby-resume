@@ -26,3 +26,19 @@ export const Position = styled.small`
         font-size: 18px;
     `}
 `
+
+export const ContactEmail = styled.a`
+    font-size: 12px;
+    text-align: center;
+    color: firebrick;
+    transition: color 0.5s;
+    text-decoration: none;
+    margin-top: 6px;
+    &:hover{
+      color: #781616;
+    }
+    ${breakpoint('tablet')`
+        text-align: left;
+        font-size: 15px;
+    `}
+`
