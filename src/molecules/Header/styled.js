@@ -6,7 +6,6 @@ export const HeaderWrapper = styled.header`
   display: flex;
   flex-wrap: wrap;
   align-content: center;
-  padding: 30px 0;
   justify-content: center;
   ${breakpoint('tablet')`
     flex-wrap: nowrap;
