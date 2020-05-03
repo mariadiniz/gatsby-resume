@@ -5,7 +5,7 @@ export const HeaderWrapper = styled.header`
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  align-content: space-between;
+  align-content: center;
   padding: 30px 0;
   justify-content: center;
   ${breakpoint('tablet')`
@@ -21,7 +21,7 @@ export const HeaderAvatarWrapper = styled.div`
   margin-right: 0;
   margin-bottom: 70px;
   width: 100%;
-  max-width: 220px;
+  max-width: 260px;
   
   ${breakpoint('tablet')`
     margin-right: 80px;

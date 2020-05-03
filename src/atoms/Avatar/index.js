@@ -8,7 +8,7 @@ export const Avatar = () => {
           profileImage: file(relativePath: {eq: "profile-photo.png"}){
               childImageSharp{
                   fluid(maxWidth: 400){
-                      ...GatsbyImageSharpFluid_tracedSVG
+                      ...GatsbyImageSharpFluid
                   }
               }
           }
