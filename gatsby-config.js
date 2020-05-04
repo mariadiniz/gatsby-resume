@@ -9,7 +9,7 @@ module.exports = {
       social: {
         github: 'https://github.com/mariadiniz',
         facebook: 'https://fb.com/mariatemrins',
-        twitter: 'twitter.com/mariatemrins',
+        twitter: 'https://twitter.com/mariatemrins',
       }
     },
     author: `@mariadiniz`,
